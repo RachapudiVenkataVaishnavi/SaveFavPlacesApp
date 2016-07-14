@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138516580149",
+    "project_id": "android-key-1-b42a4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138516580149:android:b4933c8c3acc5377",
+        "android_client_info": {
+          "package_name": "com.example.vaishnavirachapudi.savefavplacesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138516580149-5nsnd8f73gr5mbnju6rgl2jubjaqfigt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaishnavirachapudi.savefavplacesapp",
+            "certificate_hash": "C116CCE121878F16DB4A3C0E101A4FF7D6F8A868"
+          }
+        },
+        {
+          "client_id": "138516580149-dm5v1b28o465k041bbaf498b0m44jdn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlzYAstGromeizfL4EKYCr-UchC0GQbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

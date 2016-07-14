@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveFavPlacesApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyBZA5pGWLlq7GfxhCo_JNP8fxDMXRFYU4c</string>
+</resources>
